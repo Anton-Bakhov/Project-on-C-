@@ -1,0 +1,4 @@
+Price of product: 121.188$  
+Product #: 1
+Name of Product: Milk.0.5
+Date of adding the product: 
