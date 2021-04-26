@@ -1,4 +1,7 @@
 # Project-on-C-
+
+Billing system in Shop
+
 My C++ learning projects
 
 This project is written in C ++ for the purpose of learning to write in this language.
